@@ -4,8 +4,8 @@ One paragraph of project description goes here.
 
 ## Table of Contents
 
-- [Installation](#vite)
-- [Usage](#yarn)
+- [vite](#installation)
+- [yarn](#usage)
 
 ## Installation
 
